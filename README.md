@@ -5,47 +5,103 @@
 # Oficina Kiva — Atividade 8  
 ## Ambiente de Simulação (Curadoria visual responsável)
 
-Este repositório contém o **ambiente de simulação** utilizado na Atividade 8
-da Oficina Kiva.
+Este repositório contém o **ambiente de simulação** utilizado na **Atividade 8 da Oficina Kiva**.
 
-### Objetivo
-Permitir que o aluno:
-- insira imagens corretamente
+Aqui você não está publicando nada.  
+Você está **aprendendo a organizar imagens para que a vitrine funcione corretamente**.
+
+---
+
+## Objetivo da atividade
+
+Permitir que você:
+- escolha imagens adequadas para produtos
 - respeite a convenção de nomes
-- valide o funcionamento da vitrine
-- aprenda curadoria visual de forma prática
+- entenda o papel da curadoria humana
+- valide o funcionamento da vitrine na prática
 
-### Importante
+---
+
+## Importante (leia antes de começar)
+
 - Este ambiente é **educacional**
 - Nenhum dado é real
 - Nada aqui será publicado
-- Não edite `products.json` nem a planilha
+- 🚫 **Não edite** o arquivo `products.json`
+- 🚫 **Não edite** a planilha inteligente
 
-## Como ver a vitrine funcionando (obrigatório)
+Seu foco nesta atividade é **imagem e organização**, não estrutura de dados.
 
-O GitHub guarda os arquivos do exercício, mas **não executa** a vitrine.
-Para ver o resultado do seu trabalho, você precisa rodar o projeto no seu computador.
+---
 
-### Opção A (recomendada) — VS Code + Live Server
-1) Baixe e instale o VS Code:
+## Produtos desta atividade
+
+Você irá trabalhar com **três produtos simulados**:
+
+- `Garrafa_Termica_500ml`
+- `Pote_Plástico_Conjunto_3`
+- `Lanterna_LED_Recarregavel`
+
+Cada produto deve ter **uma imagem única**, escolhida e tratada por você.
+
+---
+
+## Como executar a atividade (passo a passo)
+
+### Passo 1 — Baixar o ambiente
+
+O GitHub **guarda os arquivos**, mas **não executa a vitrine**.  
+Por isso, você vai trabalhar **no seu computador**.
+
+1. No topo desta página, localize o **botão verde escrito “Code”**  
+   (ele fica acima da lista de arquivos).
+
+2. Clique no **botão verde “Code”**.
+
+3. No menu que abrir, clique em **Download ZIP**.
+
+4. Após o download:
+   - localize o arquivo `.zip`
+   - extraia o conteúdo em uma pasta no seu computador  
+     (exemplo: `Documentos/Oficina_Kiva_Atividade_8`)
+
+💡 **Dica:** ignore o menu superior do GitHub por enquanto.  
+Para esta atividade, você só vai usar o **botão verde “Code”**.
+
+---
+
+### Passo 2 — Abrir o ambiente no VS Code (recomendado)
+
+1. Baixe e instale o **VS Code**:  
    https://code.visualstudio.com/
 
-2) Abra o VS Code → clique em **Extensions** (ícone de quadradinhos) → pesquise:
-   **Live Server** → clique em **Install**
+2. Abra o VS Code e instale a extensão **Live Server**:
+   - clique em **Extensions** (ícone de quadradinhos)
+   - pesquise **Live Server**
+   - clique em **Install**
 
-3) Baixe este repositório:
-   - Clique em **Code** → **Download ZIP**
-   - Extraia o ZIP em uma pasta no seu computador
+3. No VS Code:
+   - clique em **File → Open Folder…**
+   - selecione a pasta que você extraiu do ZIP
 
-4) No VS Code: **File → Open Folder...** e selecione a pasta extraída
+4. No painel de arquivos, localize `index.html`
 
-5) Clique com o botão direito em `index.html` → **Open with Live Server**
+5. Clique com o botão direito em `index.html`  
+   → **Open with Live Server**
 
-✅ Se aparecer a vitrine no navegador, está tudo certo.
+✅ Se a vitrine abrir no navegador, está tudo certo.
 
-### Opção B (alternativa rápida) — abrir direto no navegador
-Se você não conseguir usar o Live Server:
-- tente abrir o `index.html` com duplo clique.
+---
 
-⚠️ Observação: alguns navegadores bloqueiam o carregamento do `products.json` quando o site é aberto direto do arquivo.  
-Se isso acontecer, use a Opção A (Live Server).
+### Passo 3 — Inserir as imagens
+
+1. Escolha uma imagem para cada produto  
+   (conforme orientações da Apostila – Capítulo 8)
+
+2. Trate a imagem no Canva:
+   - fundo limpo
+   - tamanho aproximado: **1000 × 1000 px**
+   - arquivo leve
+
+3. Renomeie o arquivo com o **nome exato do produto**  
+   Exemplo:
