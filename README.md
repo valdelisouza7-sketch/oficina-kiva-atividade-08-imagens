@@ -103,5 +103,5 @@ Para esta atividade, você só vai usar o **botão verde “Code”**.
    - tamanho aproximado: **1000 × 1000 px**
    - arquivo leve
 
-3. Renomeie o arquivo com o **nome exato do produto**  que conta no arquivo existente da Planilha Inteligente.
-   Pode copiar e colar.
+3. Renomeie o arquivo com o **nome exato do produto**  que consta no arquivo existente da
+ Planilha Inteligente deste exercício. Pode copiar e colar.
