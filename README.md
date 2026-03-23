@@ -1,6 +1,6 @@
 ← Voltar para a Oficina Kiva  
 
-- Online: https://kivadigital.com.br/oficina-kiva.html  
+- Online: https://kivadigital.com.br/trilhas/oficina-kiva.html  
 - Local: abra o arquivo `oficina-kiva.html` no navegador
 
 # Oficina Kiva — Atividade 8  
