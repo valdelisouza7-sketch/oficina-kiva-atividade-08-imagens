@@ -1,7 +1,9 @@
-← Voltar para a Oficina Kiva  
+← Voltar para a Oficina Kiva
 
-- Online: https://kivadigital.com.br/trilhas/oficina-kiva.html  
-- Local: abra o arquivo `oficina-kiva.html` no navegador
+Este retorno é feito localmente.
+
+- Abra o arquivo `oficina-kiva.html` no seu computador
+- Ou retorne à aba do navegador onde a Oficina Kiva já estiver aberta
 
 # Oficina Kiva — Atividade 8  
 ## Ambiente de Simulação (Curadoria visual responsável)
